@@ -1,3 +1,4 @@
 # Claison
 
-![Claison1107 GitHub stats](https://github-readme-stats.vercel.app/api?username=claison1107&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=claison1107&layout=compact)](https://github.com/claison1107/github-readme-stats)
+
