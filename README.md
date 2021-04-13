@@ -1,7 +1,7 @@
 ### Hi there :wave:
 #### I'm Claison Ruan
 - I live in Brasil, São Paulo.
-- I'm currently working as a Frontend-Developer :wave:
+- I'm currently working as a Frontend-Developer :computer:
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/claisonruan/" target="_blank">
