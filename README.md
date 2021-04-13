@@ -10,6 +10,7 @@
 </a>
 <br><br>
 
+:computer: ### Skills
 <p>
     <a target="_blank">
         <img align="center" alt="Kotlin" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"
