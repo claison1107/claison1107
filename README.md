@@ -11,7 +11,7 @@
 <br><br>
 
 <a href="https://www.linkedin.com/in/claisonruan/" target="_blank">
-    <img align="center" alt="claison-linkedin" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original-wordmark.svg"
+    <img align="center" alt="claison-linkedin" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"
     style="max-width:100%;">
 </a>
 <br><br>
