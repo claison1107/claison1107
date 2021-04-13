@@ -27,6 +27,19 @@
         <img align="center" alt="javascript" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
          style="max-width:100%;">
     </a>
+    <a target="_blank">
+        <img align="center" alt="jquery" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg"
+         style="max-width:100%;">
+    </a>
+      <a target="_blank">
+        <img align="center" alt="php" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
+         style="max-width:100%;">
+    </a>
+      <a target="_blank">
+        <img align="center" alt="mysql" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
+         style="max-width:100%;">
+    </a>
+      
 </p>
 
 <br><br>
