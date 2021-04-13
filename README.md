@@ -10,10 +10,25 @@
 </a>
 <br><br>
 
-<p href="https://www.linkedin.com/in/claisonruan/" target="_blank">
-    <img align="center" alt="claison-linkedin" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"
-    style="max-width:100%;">
+<p>
+    <a target="_blank">
+        <img align="center" alt="Kotlin" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg"
+         style="max-width:100%;">
+    </a>
+    <a target="_blank">
+        <img align="center" alt="html" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
+         style="max-width:100%;">
+    </a>
+    <a target="_blank">
+        <img align="center" alt="css" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
+         style="max-width:100%;">
+    </a>
+    <a target="_blank">
+        <img align="center" alt="javascript" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
+         style="max-width:100%;">
+    </a>
 </p>
+
 <br><br>
 <br><br>
 
