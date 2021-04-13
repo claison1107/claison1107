@@ -5,7 +5,7 @@
 
 ## Connect with me:
 <a href="https://www.linkedin.com/in/claisonruan/" target="_blank">
-    <img align="center" alt="claison-linkedin" height="38" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.11.0/devicon.min.css"
+    <img align="center" alt="claison-linkedin" height="38" width="48" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg"
     style="max-width:100%;">
 </a>
 
