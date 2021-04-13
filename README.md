@@ -1,4 +1,8 @@
-# Claison
+### Hi there
+###### I'm Claison Ruan
+- I live in :Brazil:, São Paulo.
+- I'm currently working as a Frontend-Developer.
+
 
 [LinkedIn](https://www.linkedin.com/in/claisonruan)
 
