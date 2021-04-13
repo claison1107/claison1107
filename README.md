@@ -1,6 +1,6 @@
 ### Hi there :wave:
 #### I'm Claison Ruan
-- I live in :brazil:, São Paulo.
+- I live in :brazil: , São Paulo.
 - I'm currently working as a Frontend-Developer :wave:
 
 ## Connect with me:
